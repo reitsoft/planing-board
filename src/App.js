@@ -11,7 +11,7 @@ const App = () => {
         height: "100vh",
       }}
     >
-      <h1 style={{ color: "#6EC177", margin: 0 }}>Waaahhh, comming soon!!!!!</h1>
+      <h1 style={{ color: "#6EC177", margin: 0 }}>es kommt...</h1>
     </div>
   );
 };
